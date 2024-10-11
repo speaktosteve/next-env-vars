@@ -1,3 +1,13 @@
+## What is this?
+
+This is a really simple Next.js used to demonstrate how to manage Next.js environment variables on Azure Static Web Apps - see full details here:
+https://speaktosteve.github.io/blog/managing-environment-variables-nextjs-azure-static-web-apps
+
+The rest is boilerplate stuff...
+
+---
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
