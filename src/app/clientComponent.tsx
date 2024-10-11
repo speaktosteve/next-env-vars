@@ -10,7 +10,7 @@ export const ClientComponent = () => {
         <p>its using state see? Name is {name}</p>
         <input type="text" onChange={(e) => setName(e.target.value)} />
         <ul className="mt-5">
-          <li>BROWSER_VARIABLE: {process.env.NEXT_PUBLIC_RUNTIME_VARIABLE}</li>
+          <li>BROWSER_VARIABLE: {process.env.NEXT_PUBLIC_BROWSER_VARIABLE}</li>
         </ul>
         </section>
         
